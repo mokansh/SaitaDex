@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/SaitaSwapLibrary.sol": "SaitaSwapLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/ISaitaSwapPair.sol": {
+			"keccak256": "0xbd492e126ed314e29c18dbd5522d56dd72020f2edec1b20c2ea9d8312c8729c3",
+			"urls": [
+				"bzz-raw://4c3c0e8910342248cdbbbf16ddb0befae785a68726bc58997bf74e9853b1868a",
+				"dweb:/ipfs/QmPhMAw7XSaraqZNgBxEY4u1JSUDVgvS4z4vR5eGzToNnd"
+			]
+		},
+		"contracts/libraries/SafeMath.sol": {
+			"keccak256": "0xf6019897e2f7d2abe47bed3bcc78aa1dfe6a7b1bfc24308240c677bd5fce6538",
+			"urls": [
+				"bzz-raw://e60d28a99d0d2ce95655e8307c9cd82e92a331db7a805c090795deeb5790ccce",
+				"dweb:/ipfs/QmcPeNUwAtLRTL1STVH172RF5XpiuQBoYgjh7oHGDF9umT"
+			]
+		},
+		"contracts/libraries/SaitaSwapLibrary.sol": {
+			"keccak256": "0x5a080ca71a91fb079bee7252525a8f51981f913569a811bf14ae964c194f7a7d",
+			"urls": [
+				"bzz-raw://f029c48720f3ebe5f6f5d02117ef06660742ee8b6ca0a555f508222389bc1112",
+				"dweb:/ipfs/QmYqPzqvVADG43Jbd9w6Jc7yuFZHeXqxpkvsyBbNZdrPuK"
+			]
+		}
+	},
+	"version": 1
+}
